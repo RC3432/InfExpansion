@@ -1,0 +1,5 @@
+displayName = Infinite Expansion Mod
+author = RC3432
+version = 0.1
+hideCode = true
+hideSource = true

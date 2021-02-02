@@ -1,0 +1,12 @@
+Infinite Expansion Mod is a cheat tool mod used to alter massive amounts of terrain, delete, push, pull and freeze enemies,
+and even create randomized blocks and items! The mod is small, but expect updates soon.. 
+
+Items:
+
+Deletion Zenith: Can instantly delete any NPC, projectile, item, and tile it touchs.
+Heal Zenith: Instantly heals a player or NPC to maximum health.
+Shrink and Expand Zenith: Reduces and Expands the size of projectiles, npcs, and items (When used).
+Push and Pull Zenith: Drags and pushes away items, projectiles and npcs.
+Create Zenith: Randomizes blocks, items, projectiles and npcs in a small area.
+Tech Zenith: Nothing yet, expect more code soon :).
+By RC3432
